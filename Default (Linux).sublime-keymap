@@ -1,0 +1,4 @@
+[
+    { "keys": ["alt+d"], "command": "goto_definition" },
+    { "keys": ["alt+b"], "command": "jump_back" }
+]
